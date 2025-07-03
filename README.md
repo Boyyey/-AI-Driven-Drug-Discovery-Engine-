@@ -24,6 +24,7 @@ The **AI-Driven Drug Discovery Engine** is a cutting-edge platform that predicts
 
 ## 🖼️ Screenshots
 
+![Screenshot 2025-07-03 181840](https://github.com/user-attachments/assets/3fd19db0-4d42-402e-a0fa-1ca7e0d96853)
 
 
 ---
