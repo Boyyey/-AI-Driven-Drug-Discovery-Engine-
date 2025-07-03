@@ -1,0 +1,14 @@
+rdkit
+# For PyTorch, use the appropriate version for your CUDA/CPU setup. Defaulting to CPU here:
+torch
+# PyTorch Geometric and dependencies
+# The following line is a placeholder; actual install may require specific wheels for your system
+torch-geometric
+# DeepChem for chemistry ML
+DeepChem
+numpy
+pandas
+scikit-learn
+matplotlib
+biopython
+streamlit 

@@ -1,0 +1,6 @@
+REMARK  Example PDBQT file
+ATOM      1  N   GLY A   1      11.104  13.207  10.000  1.00  0.00      A    N
+ATOM      2  CA  GLY A   1      12.560  13.207  10.000  1.00  0.00      A    C
+ATOM      3  C   GLY A   1      13.104  14.607  10.000  1.00  0.00      A    C
+ATOM      4  O   GLY A   1      12.560  15.607  10.000  1.00  0.00      A    O
+ENDMDL 
