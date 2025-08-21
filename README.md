@@ -77,4 +77,5 @@ MIT License. Free for research and educational use.
 
 ---
 
-**Made with ❤️ by the AI-Driven Drug Discovery Engine Team** 
+**Made with ❤️ by boyyey** 
+
